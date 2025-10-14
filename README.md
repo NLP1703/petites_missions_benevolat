@@ -27,7 +27,7 @@ Faciliter l’engagement citoyen local en rendant la recherche, l’inscription 
 ## 🚀 Mise en route (vue d’ensemble)
 1. Configurer la base de données MySQL.  
 2. Renseigner les paramètres d’application (URL, DB, répertoires d’upload).  
-3. Lancer l’application sur votre serveur web (Apache/Nginx + PHP).  
+3. Lancer l’application sur le serveur web (Apache/Nginx + PHP).  
 4. Créer un premier compte organisateur et publier une mission.  
 
 ## 🔐 Sécurité & confidentialité (principes)
@@ -39,7 +39,7 @@ Faciliter l’engagement citoyen local en rendant la recherche, l’inscription 
 ## 📈 Scalabilité & fiabilité (approche)
 - Front stateless derrière un serveur web, prêt pour la répartition de charge.  
 - Indexation DB et possibilité de réplicas en lecture.  
-- Stockage d’images sur disque ou service objet (type S3) selon l’environnement.  
+- Stockage d’images sur disque ou service objet (type S3).  
 - Journalisation et suivi des erreurs pour une maintenance facilitée.
 
 ## 🗺️ Feuille de route (idées)
