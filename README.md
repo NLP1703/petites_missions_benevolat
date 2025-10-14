@@ -1,4 +1,4 @@
-# Bénévol’Local
+# Bénévole
 
 Plateforme web qui met en relation des **bénévoles** et des **organisations** pour des **missions communautaires proches de chez eux**.
 
