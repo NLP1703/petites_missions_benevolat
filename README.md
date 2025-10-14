@@ -49,16 +49,4 @@ Faciliter l’engagement citoyen local en rendant la recherche, l’inscription 
 - Badges/attestations pour les bénévoles.  
 - Internationalisation (i18n).
 
-## 🤝 Contribuer
-- Ouvrir une issue pour discuter d’une idée ou d’un bug.  
-- Proposer une amélioration via pull request avec description claire.
 
-## 🖼️ Identité visuelle
-Un **logo** est fourni séparément et peut être placé dans `public/assets/images/`.
-
-## 📄 Licence
-Au choix : MIT (recommandée) ou toute licence compatible avec votre contexte.
-
-## 📬 Contact
-- Email projet : contact@benevolocal.example  
-- Réseaux sociaux : à définir
